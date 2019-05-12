@@ -2,7 +2,7 @@
 This project was custom-built React boilerplate. <br/>
 
 To run the app locally.<br/>
-`https://github.com/kacMadushan/react-hooks-contact-app.git`<br/>
+`git clone https://github.com/kacMadushan/react-hooks-contact-app.git`<br/>
 `cd react-hooks-contact-app`<br/>
 `yarn run dev-server`
 
