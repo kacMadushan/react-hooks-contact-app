@@ -1,0 +1,21 @@
+.header {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin: 0.8rem auto;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e9ebee;
+}
+
+.header__app_title {
+    color: #000000;
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin-bottom: 0.2rem;
+}
+
+.header__app__subtitle {
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 0;
+}
